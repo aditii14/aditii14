@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning data structure and machine learning   <br>🎯 Goal: To become a data analyst <br>🎲 Fun fact:  A day on Venus is longer than a year on Venus!</p>
+<p align="left">📚 I'm currently learning data structure and machine learning   <br>🎲 Fun fact:  A day on Venus is longer than a year on Venus!</p>
 
 ###
 <div align="left">
